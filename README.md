@@ -16,6 +16,7 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
   - `model_output.csv`: Classification made by the developed model using Test sample
 - **Notebooks**:
   - `obesity.ipynb`: Notebook containing both analysis and model developtment for the classification task.
+  - `KaggleScores.png`: Print with the scores achieved in Kaggle submission.
 
 ## Installation
 
