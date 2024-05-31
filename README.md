@@ -37,7 +37,7 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
   - `step1.ipynb`: Forecasting using only the train dataset.
   - `step2.ipynb`: Adding holidays dataset to the model.
   - `step3.ipynb`: Incorporating oil price information into the model.
-  - `step4.ipynb`: Including employee payment information  to enhance the model.
+  - `step4.ipynb`: Including employee payment information to enhance the model.
 
 - **Data Subfolders**:
   - Inside the `data` folder, there is a subfolder for each step (`step1`, `step2`, `step3`, `step4`) containing:
