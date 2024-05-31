@@ -1,0 +1,5 @@
+,Set,Model,RMSLE
+0,Train With Oil Prince,RandomForest,0.5734118696174597
+1,Train With Oil Prince,XGBoost,1.6810703473856226
+2,Train With Oil Prince and Holiday Info,RandomForest,0.5751898161452089
+3,Train With Oil Prince and Holiday Info,XGBoost,1.6810694292732742

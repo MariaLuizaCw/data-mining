@@ -1,0 +1,9 @@
+,Set,Model,RMSLE
+0,"Train With Oil Prince, Holidays and Pay days",RandomForest,0.5699759895031724
+1,"Train With Oil Prince, Holidays and Pay days",XGBoost,1.6810765192769614
+2,Train With Holidays and Pay days,RandomForest,0.5745062099346974
+3,Train With Holidays and Pay days,XGBoost,1.6809990787330908
+4,Train With Oil Prince and Pay days,RandomForest,0.5745062099346974
+5,Train With Oil Prince and Pay days,XGBoost,1.6809990787330908
+6,Train With Pay days,RandomForest,0.5745062099346974
+7,Train With Pay days,XGBoost,1.6809990787330908

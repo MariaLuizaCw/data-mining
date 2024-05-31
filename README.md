@@ -32,17 +32,24 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
   - `transactions.csv`: Contains transaction data for each store.
 
 - **Notebooks**:
+  - `explor.ipynb`: First look and all data samples.
   - `step1.ipynb`: Forecasting using only the train dataset.
   - `step2.ipynb`: Adding holidays dataset to the model.
   - `step3.ipynb`: Incorporating oil price information into the model.
-  - `step4.ipynb`: Including employee payment information to enhance the model.
+  - `step4.ipynb`: Including employee payment information  to enhance the model.
 
 - **Data Subfolders**:
   - Inside the `data` folder, there is a subfolder for each step (`step1`, `step2`, `step3`, `step4`) containing:
     - Auxiliary CSVs created during the execution of the respective notebook.
     - Results obtained for the variations generated using two algorithms: Random Forest Regressor and Gradient Boosting Regressor `results.csv`.
 
-
+- **Submissions Folder**:
+  - The `submissions` folder contains:
+    - `submission_step_1.csv`
+    - `submission_step_2.csv`
+    - `submission_step_3.csv`
+    - `submission_step_4.csv`
+  - These files contain the preparation of the submission for the best results from the four steps.
 
 
 ## Installation

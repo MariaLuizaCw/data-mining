@@ -1,0 +1,6 @@
+env
+df_train*
+df_test*
+df_submission*
+traning_set*
+validation_set*
