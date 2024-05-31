@@ -46,11 +46,11 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
 
 - **Submissions Folder**:
   - The `submissions` folder contains:
-    - `submission_step_1.csv`
-    - `submission_step_2.csv`
-    - `submission_step_3.csv`
-    - `submission_step_4.csv`
-  - These files contain the preparation of the submission for the best results from the four steps.
+    - `submission_step_1.csv`: Submission for the best results from the step 1
+    - `submission_step_2.csv`: Submission for the best results from the step 2
+    - `submission_step_3.csv`: Submission for the best results from the step 3
+    - `submission_step_4.csv`: Submission for the best results from the step 4
+    - `KaggleSubmissions.png`: Print with the scores achieved in Kaggle submission.
 
 
 ## Installation
