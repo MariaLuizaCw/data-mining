@@ -32,7 +32,8 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
   - `transactions.csv`: Contains transaction data for each store.
 
 - **Notebooks**:
-  - `explor.ipynb`: First look and all data samples.
+  - The general strategy was to create a model for each store, adding information to these models over the steps.
+  - `explore.ipynb`: First look and all data samples.
   - `step1.ipynb`: Forecasting using only the train dataset.
   - `step2.ipynb`: Adding holidays dataset to the model.
   - `step3.ipynb`: Incorporating oil price information into the model.
