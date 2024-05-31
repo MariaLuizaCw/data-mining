@@ -22,7 +22,7 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
 
 - **Folder**: `project2`
 - **Objective**: Forecasting store sales using time series data to predict future sales accurately.
-- **Data Source**: This project uses the "Store Sales - Time Series Forecasting" dataset from Kaggle.
+- **Data Source**: This project uses the "Store Sales - Time Series Forecasting" dataset from Kaggle. (The entries were zipped to fit into Git.)
   - `holidays_events.csv`: Contains information about holidays and events.
   - `oil.csv`: Contains historical oil price data.
   - `sample_submission.csv`: Submission example downloaded from Kaggle.
