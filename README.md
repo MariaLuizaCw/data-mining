@@ -18,6 +18,33 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
   - `obesity.ipynb`: Notebook containing both analysis and model developtment for the classification task.
   - `KaggleScores.png`: Print with the scores achieved in Kaggle submission.
 
+### Project 2: Store Sales - Time Series Forecasting
+
+- **Folder**: `project2`
+- **Objective**: Forecasting store sales using time series data to predict future sales accurately.
+- **Data Source**: This project uses the "Store Sales - Time Series Forecasting" dataset from Kaggle.
+  - `holidays_events.csv`: Contains information about holidays and events.
+  - `oil.csv`: Contains historical oil price data.
+  - `sample_submission.csv`: Submission example downloaded from Kaggle.
+  - `stores.csv`: Contains information about different stores.
+  - `test.csv`: Test sample downloaded from Kaggle.
+  - `train.csv`: Train sample downloaded from Kaggle.
+  - `transactions.csv`: Contains transaction data for each store.
+
+- **Notebooks**:
+  - `step1.ipynb`: Forecasting using only the train dataset.
+  - `step2.ipynb`: Adding holidays dataset to the model.
+  - `step3.ipynb`: Incorporating oil price information into the model.
+  - `step4.ipynb`: Including employee payment information to enhance the model.
+
+- **Data Subfolders**:
+  - Inside the `data` folder, there is a subfolder for each step (`step1`, `step2`, `step3`, `step4`) containing:
+    - Auxiliary CSVs created during the execution of the respective notebook.
+    - Results obtained for the variations generated using two algorithms: Random Forest Regressor and Gradient Boosting Regressor `results.csv`.
+
+
+
+
 ## Installation
 
 To run the notebooks, you will need to install the required Python packages. You can install all required packages using the following command:

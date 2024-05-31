@@ -1,0 +1,1675 @@
+store_id,holiday_description,locale,consider
+1,Cantonizacion de Cayambe,Local,False
+1,Cantonizacion de El Carmen,Local,True
+1,Cantonizacion de Guaranda,Local,False
+1,Cantonizacion de Latacunga,Local,True
+1,Cantonizacion de Libertad,Local,False
+1,Cantonizacion de Quevedo,Local,True
+1,Cantonizacion de Riobamba,Local,True
+1,Cantonizacion de Salinas,Local,True
+1,Cantonizacion del Puyo,Local,True
+1,Fundacion de Ambato,Local,False
+1,Fundacion de Cuenca,Local,False
+1,Fundacion de Esmeraldas,Local,True
+1,Fundacion de Guayaquil,Local,False
+1,Fundacion de Guayaquil-1,Local,True
+1,Fundacion de Ibarra,Local,True
+1,Fundacion de Loja,Local,False
+1,Fundacion de Machala,Local,True
+1,Fundacion de Manta,Local,True
+1,Fundacion de Quito,Local,False
+1,Fundacion de Quito-1,Local,False
+1,Fundacion de Riobamba,Local,True
+1,Fundacion de Santo Domingo,Local,True
+1,Independencia de Ambato,Local,True
+1,Independencia de Guaranda,Local,True
+1,Independencia de Latacunga,Local,False
+1,Provincializacion Santa Elena,Regional,True
+1,Provincializacion de Cotopaxi,Regional,True
+1,Provincializacion de Imbabura,Regional,True
+1,Provincializacion de Santo Domingo,Regional,True
+1,Traslado Fundacion de Guayaquil,Local,True
+1,Traslado Fundacion de Quito,Local,False
+2,Cantonizacion de Cayambe,Local,False
+2,Cantonizacion de El Carmen,Local,True
+2,Cantonizacion de Guaranda,Local,False
+2,Cantonizacion de Latacunga,Local,True
+2,Cantonizacion de Libertad,Local,True
+2,Cantonizacion de Quevedo,Local,True
+2,Cantonizacion de Riobamba,Local,True
+2,Cantonizacion de Salinas,Local,True
+2,Cantonizacion del Puyo,Local,True
+2,Fundacion de Ambato,Local,False
+2,Fundacion de Cuenca,Local,False
+2,Fundacion de Esmeraldas,Local,True
+2,Fundacion de Guayaquil,Local,False
+2,Fundacion de Guayaquil-1,Local,True
+2,Fundacion de Ibarra,Local,False
+2,Fundacion de Loja,Local,False
+2,Fundacion de Machala,Local,True
+2,Fundacion de Manta,Local,True
+2,Fundacion de Quito,Local,False
+2,Fundacion de Quito-1,Local,False
+2,Fundacion de Riobamba,Local,True
+2,Fundacion de Santo Domingo,Local,True
+2,Independencia de Ambato,Local,True
+2,Independencia de Guaranda,Local,False
+2,Independencia de Latacunga,Local,True
+2,Provincializacion Santa Elena,Regional,True
+2,Provincializacion de Cotopaxi,Regional,True
+2,Provincializacion de Imbabura,Regional,True
+2,Provincializacion de Santo Domingo,Regional,True
+2,Traslado Fundacion de Guayaquil,Local,True
+2,Traslado Fundacion de Quito,Local,False
+3,Cantonizacion de Cayambe,Local,False
+3,Cantonizacion de El Carmen,Local,True
+3,Cantonizacion de Guaranda,Local,False
+3,Cantonizacion de Latacunga,Local,True
+3,Cantonizacion de Libertad,Local,False
+3,Cantonizacion de Quevedo,Local,True
+3,Cantonizacion de Riobamba,Local,True
+3,Cantonizacion de Salinas,Local,True
+3,Cantonizacion del Puyo,Local,True
+3,Fundacion de Ambato,Local,False
+3,Fundacion de Cuenca,Local,False
+3,Fundacion de Esmeraldas,Local,True
+3,Fundacion de Guayaquil,Local,False
+3,Fundacion de Guayaquil-1,Local,True
+3,Fundacion de Ibarra,Local,False
+3,Fundacion de Loja,Local,False
+3,Fundacion de Machala,Local,True
+3,Fundacion de Manta,Local,True
+3,Fundacion de Quito,Local,False
+3,Fundacion de Quito-1,Local,False
+3,Fundacion de Riobamba,Local,True
+3,Fundacion de Santo Domingo,Local,True
+3,Independencia de Ambato,Local,True
+3,Independencia de Guaranda,Local,False
+3,Independencia de Latacunga,Local,False
+3,Provincializacion Santa Elena,Regional,True
+3,Provincializacion de Cotopaxi,Regional,True
+3,Provincializacion de Imbabura,Regional,True
+3,Provincializacion de Santo Domingo,Regional,True
+3,Traslado Fundacion de Guayaquil,Local,True
+3,Traslado Fundacion de Quito,Local,False
+4,Cantonizacion de Cayambe,Local,False
+4,Cantonizacion de El Carmen,Local,True
+4,Cantonizacion de Guaranda,Local,False
+4,Cantonizacion de Latacunga,Local,True
+4,Cantonizacion de Libertad,Local,False
+4,Cantonizacion de Quevedo,Local,True
+4,Cantonizacion de Riobamba,Local,True
+4,Cantonizacion de Salinas,Local,True
+4,Cantonizacion del Puyo,Local,True
+4,Fundacion de Ambato,Local,False
+4,Fundacion de Cuenca,Local,True
+4,Fundacion de Esmeraldas,Local,True
+4,Fundacion de Guayaquil,Local,True
+4,Fundacion de Guayaquil-1,Local,True
+4,Fundacion de Ibarra,Local,False
+4,Fundacion de Loja,Local,False
+4,Fundacion de Machala,Local,True
+4,Fundacion de Manta,Local,True
+4,Fundacion de Quito,Local,False
+4,Fundacion de Quito-1,Local,False
+4,Fundacion de Riobamba,Local,True
+4,Fundacion de Santo Domingo,Local,True
+4,Independencia de Ambato,Local,True
+4,Independencia de Guaranda,Local,False
+4,Independencia de Latacunga,Local,True
+4,Provincializacion Santa Elena,Regional,True
+4,Provincializacion de Cotopaxi,Regional,True
+4,Provincializacion de Imbabura,Regional,True
+4,Provincializacion de Santo Domingo,Regional,True
+4,Traslado Fundacion de Guayaquil,Local,True
+4,Traslado Fundacion de Quito,Local,False
+5,Cantonizacion de Cayambe,Local,False
+5,Cantonizacion de El Carmen,Local,True
+5,Cantonizacion de Guaranda,Local,False
+5,Cantonizacion de Latacunga,Local,True
+5,Cantonizacion de Libertad,Local,False
+5,Cantonizacion de Quevedo,Local,True
+5,Cantonizacion de Riobamba,Local,True
+5,Cantonizacion de Salinas,Local,True
+5,Cantonizacion del Puyo,Local,True
+5,Fundacion de Ambato,Local,False
+5,Fundacion de Cuenca,Local,False
+5,Fundacion de Esmeraldas,Local,True
+5,Fundacion de Guayaquil,Local,False
+5,Fundacion de Guayaquil-1,Local,True
+5,Fundacion de Ibarra,Local,False
+5,Fundacion de Loja,Local,False
+5,Fundacion de Machala,Local,True
+5,Fundacion de Manta,Local,True
+5,Fundacion de Quito,Local,False
+5,Fundacion de Quito-1,Local,False
+5,Fundacion de Riobamba,Local,False
+5,Fundacion de Santo Domingo,Local,True
+5,Independencia de Ambato,Local,True
+5,Independencia de Guaranda,Local,False
+5,Independencia de Latacunga,Local,True
+5,Provincializacion Santa Elena,Regional,True
+5,Provincializacion de Cotopaxi,Regional,True
+5,Provincializacion de Imbabura,Regional,True
+5,Provincializacion de Santo Domingo,Regional,True
+5,Traslado Fundacion de Guayaquil,Local,True
+5,Traslado Fundacion de Quito,Local,False
+6,Cantonizacion de Cayambe,Local,False
+6,Cantonizacion de El Carmen,Local,True
+6,Cantonizacion de Guaranda,Local,False
+6,Cantonizacion de Latacunga,Local,True
+6,Cantonizacion de Libertad,Local,False
+6,Cantonizacion de Quevedo,Local,True
+6,Cantonizacion de Riobamba,Local,True
+6,Cantonizacion de Salinas,Local,True
+6,Cantonizacion del Puyo,Local,True
+6,Fundacion de Ambato,Local,False
+6,Fundacion de Cuenca,Local,False
+6,Fundacion de Esmeraldas,Local,True
+6,Fundacion de Guayaquil,Local,False
+6,Fundacion de Guayaquil-1,Local,True
+6,Fundacion de Ibarra,Local,False
+6,Fundacion de Loja,Local,False
+6,Fundacion de Machala,Local,True
+6,Fundacion de Manta,Local,True
+6,Fundacion de Quito,Local,True
+6,Fundacion de Quito-1,Local,False
+6,Fundacion de Riobamba,Local,True
+6,Fundacion de Santo Domingo,Local,True
+6,Independencia de Ambato,Local,True
+6,Independencia de Guaranda,Local,False
+6,Independencia de Latacunga,Local,False
+6,Provincializacion Santa Elena,Regional,True
+6,Provincializacion de Cotopaxi,Regional,True
+6,Provincializacion de Imbabura,Regional,True
+6,Provincializacion de Santo Domingo,Regional,True
+6,Traslado Fundacion de Guayaquil,Local,True
+6,Traslado Fundacion de Quito,Local,False
+7,Cantonizacion de Cayambe,Local,False
+7,Cantonizacion de El Carmen,Local,True
+7,Cantonizacion de Guaranda,Local,False
+7,Cantonizacion de Latacunga,Local,True
+7,Cantonizacion de Libertad,Local,False
+7,Cantonizacion de Quevedo,Local,True
+7,Cantonizacion de Riobamba,Local,True
+7,Cantonizacion de Salinas,Local,True
+7,Cantonizacion del Puyo,Local,True
+7,Fundacion de Ambato,Local,False
+7,Fundacion de Cuenca,Local,True
+7,Fundacion de Esmeraldas,Local,False
+7,Fundacion de Guayaquil,Local,False
+7,Fundacion de Guayaquil-1,Local,True
+7,Fundacion de Ibarra,Local,True
+7,Fundacion de Loja,Local,False
+7,Fundacion de Machala,Local,True
+7,Fundacion de Manta,Local,True
+7,Fundacion de Quito,Local,False
+7,Fundacion de Quito-1,Local,False
+7,Fundacion de Riobamba,Local,True
+7,Fundacion de Santo Domingo,Local,True
+7,Independencia de Ambato,Local,True
+7,Independencia de Guaranda,Local,False
+7,Independencia de Latacunga,Local,False
+7,Provincializacion Santa Elena,Regional,True
+7,Provincializacion de Cotopaxi,Regional,True
+7,Provincializacion de Imbabura,Regional,True
+7,Provincializacion de Santo Domingo,Regional,True
+7,Traslado Fundacion de Guayaquil,Local,True
+7,Traslado Fundacion de Quito,Local,False
+8,Cantonizacion de Cayambe,Local,False
+8,Cantonizacion de El Carmen,Local,True
+8,Cantonizacion de Guaranda,Local,False
+8,Cantonizacion de Latacunga,Local,True
+8,Cantonizacion de Libertad,Local,False
+8,Cantonizacion de Quevedo,Local,True
+8,Cantonizacion de Riobamba,Local,True
+8,Cantonizacion de Salinas,Local,True
+8,Cantonizacion del Puyo,Local,True
+8,Fundacion de Ambato,Local,False
+8,Fundacion de Cuenca,Local,False
+8,Fundacion de Esmeraldas,Local,True
+8,Fundacion de Guayaquil,Local,False
+8,Fundacion de Guayaquil-1,Local,True
+8,Fundacion de Ibarra,Local,True
+8,Fundacion de Loja,Local,False
+8,Fundacion de Machala,Local,True
+8,Fundacion de Manta,Local,True
+8,Fundacion de Quito,Local,True
+8,Fundacion de Quito-1,Local,False
+8,Fundacion de Riobamba,Local,True
+8,Fundacion de Santo Domingo,Local,True
+8,Independencia de Ambato,Local,True
+8,Independencia de Guaranda,Local,True
+8,Independencia de Latacunga,Local,False
+8,Provincializacion Santa Elena,Regional,True
+8,Provincializacion de Cotopaxi,Regional,True
+8,Provincializacion de Imbabura,Regional,True
+8,Provincializacion de Santo Domingo,Regional,True
+8,Traslado Fundacion de Guayaquil,Local,True
+8,Traslado Fundacion de Quito,Local,False
+9,Cantonizacion de Cayambe,Local,False
+9,Cantonizacion de El Carmen,Local,True
+9,Cantonizacion de Guaranda,Local,False
+9,Cantonizacion de Latacunga,Local,True
+9,Cantonizacion de Libertad,Local,False
+9,Cantonizacion de Quevedo,Local,True
+9,Cantonizacion de Riobamba,Local,True
+9,Cantonizacion de Salinas,Local,True
+9,Cantonizacion del Puyo,Local,True
+9,Fundacion de Ambato,Local,False
+9,Fundacion de Cuenca,Local,False
+9,Fundacion de Esmeraldas,Local,True
+9,Fundacion de Guayaquil,Local,False
+9,Fundacion de Guayaquil-1,Local,True
+9,Fundacion de Ibarra,Local,False
+9,Fundacion de Loja,Local,False
+9,Fundacion de Machala,Local,True
+9,Fundacion de Manta,Local,True
+9,Fundacion de Quito,Local,True
+9,Fundacion de Quito-1,Local,True
+9,Fundacion de Riobamba,Local,False
+9,Fundacion de Santo Domingo,Local,True
+9,Independencia de Ambato,Local,True
+9,Independencia de Guaranda,Local,False
+9,Independencia de Latacunga,Local,False
+9,Provincializacion Santa Elena,Regional,True
+9,Provincializacion de Cotopaxi,Regional,True
+9,Provincializacion de Imbabura,Regional,True
+9,Provincializacion de Santo Domingo,Regional,True
+9,Traslado Fundacion de Guayaquil,Local,True
+9,Traslado Fundacion de Quito,Local,False
+10,Cantonizacion de Cayambe,Local,False
+10,Cantonizacion de El Carmen,Local,True
+10,Cantonizacion de Guaranda,Local,False
+10,Cantonizacion de Latacunga,Local,True
+10,Cantonizacion de Libertad,Local,False
+10,Cantonizacion de Quevedo,Local,True
+10,Cantonizacion de Riobamba,Local,True
+10,Cantonizacion de Salinas,Local,True
+10,Cantonizacion del Puyo,Local,True
+10,Fundacion de Ambato,Local,False
+10,Fundacion de Cuenca,Local,False
+10,Fundacion de Esmeraldas,Local,True
+10,Fundacion de Guayaquil,Local,False
+10,Fundacion de Guayaquil-1,Local,True
+10,Fundacion de Ibarra,Local,False
+10,Fundacion de Loja,Local,False
+10,Fundacion de Machala,Local,True
+10,Fundacion de Manta,Local,True
+10,Fundacion de Quito,Local,False
+10,Fundacion de Quito-1,Local,False
+10,Fundacion de Riobamba,Local,False
+10,Fundacion de Santo Domingo,Local,True
+10,Independencia de Ambato,Local,True
+10,Independencia de Guaranda,Local,False
+10,Independencia de Latacunga,Local,False
+10,Provincializacion Santa Elena,Regional,True
+10,Provincializacion de Cotopaxi,Regional,True
+10,Provincializacion de Imbabura,Regional,True
+10,Provincializacion de Santo Domingo,Regional,True
+10,Traslado Fundacion de Guayaquil,Local,True
+10,Traslado Fundacion de Quito,Local,False
+11,Cantonizacion de Cayambe,Local,False
+11,Cantonizacion de El Carmen,Local,True
+11,Cantonizacion de Guaranda,Local,False
+11,Cantonizacion de Latacunga,Local,True
+11,Cantonizacion de Libertad,Local,False
+11,Cantonizacion de Quevedo,Local,True
+11,Cantonizacion de Riobamba,Local,True
+11,Cantonizacion de Salinas,Local,True
+11,Cantonizacion del Puyo,Local,True
+11,Fundacion de Ambato,Local,False
+11,Fundacion de Cuenca,Local,False
+11,Fundacion de Esmeraldas,Local,True
+11,Fundacion de Guayaquil,Local,False
+11,Fundacion de Guayaquil-1,Local,True
+11,Fundacion de Ibarra,Local,False
+11,Fundacion de Loja,Local,False
+11,Fundacion de Machala,Local,True
+11,Fundacion de Manta,Local,True
+11,Fundacion de Quito,Local,True
+11,Fundacion de Quito-1,Local,True
+11,Fundacion de Riobamba,Local,False
+11,Fundacion de Santo Domingo,Local,True
+11,Independencia de Ambato,Local,True
+11,Independencia de Guaranda,Local,False
+11,Independencia de Latacunga,Local,False
+11,Provincializacion Santa Elena,Regional,True
+11,Provincializacion de Cotopaxi,Regional,True
+11,Provincializacion de Imbabura,Regional,True
+11,Provincializacion de Santo Domingo,Regional,True
+11,Traslado Fundacion de Guayaquil,Local,True
+11,Traslado Fundacion de Quito,Local,False
+12,Cantonizacion de Cayambe,Local,False
+12,Cantonizacion de El Carmen,Local,True
+12,Cantonizacion de Guaranda,Local,False
+12,Cantonizacion de Latacunga,Local,True
+12,Cantonizacion de Libertad,Local,False
+12,Cantonizacion de Quevedo,Local,True
+12,Cantonizacion de Riobamba,Local,True
+12,Cantonizacion de Salinas,Local,True
+12,Cantonizacion del Puyo,Local,True
+12,Fundacion de Ambato,Local,False
+12,Fundacion de Cuenca,Local,False
+12,Fundacion de Esmeraldas,Local,True
+12,Fundacion de Guayaquil,Local,False
+12,Fundacion de Guayaquil-1,Local,True
+12,Fundacion de Ibarra,Local,True
+12,Fundacion de Loja,Local,False
+12,Fundacion de Machala,Local,True
+12,Fundacion de Manta,Local,True
+12,Fundacion de Quito,Local,True
+12,Fundacion de Quito-1,Local,False
+12,Fundacion de Riobamba,Local,True
+12,Fundacion de Santo Domingo,Local,True
+12,Independencia de Ambato,Local,True
+12,Independencia de Guaranda,Local,False
+12,Independencia de Latacunga,Local,False
+12,Provincializacion Santa Elena,Regional,True
+12,Provincializacion de Cotopaxi,Regional,True
+12,Provincializacion de Imbabura,Regional,True
+12,Provincializacion de Santo Domingo,Regional,True
+12,Traslado Fundacion de Guayaquil,Local,True
+12,Traslado Fundacion de Quito,Local,False
+13,Cantonizacion de Cayambe,Local,False
+13,Cantonizacion de El Carmen,Local,True
+13,Cantonizacion de Guaranda,Local,False
+13,Cantonizacion de Latacunga,Local,True
+13,Cantonizacion de Libertad,Local,False
+13,Cantonizacion de Quevedo,Local,True
+13,Cantonizacion de Riobamba,Local,True
+13,Cantonizacion de Salinas,Local,True
+13,Cantonizacion del Puyo,Local,True
+13,Fundacion de Ambato,Local,False
+13,Fundacion de Cuenca,Local,False
+13,Fundacion de Esmeraldas,Local,True
+13,Fundacion de Guayaquil,Local,False
+13,Fundacion de Guayaquil-1,Local,True
+13,Fundacion de Ibarra,Local,True
+13,Fundacion de Loja,Local,False
+13,Fundacion de Machala,Local,True
+13,Fundacion de Manta,Local,True
+13,Fundacion de Quito,Local,True
+13,Fundacion de Quito-1,Local,True
+13,Fundacion de Riobamba,Local,True
+13,Fundacion de Santo Domingo,Local,True
+13,Independencia de Ambato,Local,True
+13,Independencia de Guaranda,Local,False
+13,Independencia de Latacunga,Local,False
+13,Provincializacion Santa Elena,Regional,True
+13,Provincializacion de Cotopaxi,Regional,True
+13,Provincializacion de Imbabura,Regional,True
+13,Provincializacion de Santo Domingo,Regional,True
+13,Traslado Fundacion de Guayaquil,Local,True
+13,Traslado Fundacion de Quito,Local,False
+14,Cantonizacion de Cayambe,Local,False
+14,Cantonizacion de El Carmen,Local,True
+14,Cantonizacion de Guaranda,Local,False
+14,Cantonizacion de Latacunga,Local,True
+14,Cantonizacion de Libertad,Local,True
+14,Cantonizacion de Quevedo,Local,True
+14,Cantonizacion de Riobamba,Local,True
+14,Cantonizacion de Salinas,Local,True
+14,Cantonizacion del Puyo,Local,True
+14,Fundacion de Ambato,Local,False
+14,Fundacion de Cuenca,Local,False
+14,Fundacion de Esmeraldas,Local,True
+14,Fundacion de Guayaquil,Local,True
+14,Fundacion de Guayaquil-1,Local,True
+14,Fundacion de Ibarra,Local,False
+14,Fundacion de Loja,Local,False
+14,Fundacion de Machala,Local,True
+14,Fundacion de Manta,Local,True
+14,Fundacion de Quito,Local,False
+14,Fundacion de Quito-1,Local,True
+14,Fundacion de Riobamba,Local,False
+14,Fundacion de Santo Domingo,Local,True
+14,Independencia de Ambato,Local,True
+14,Independencia de Guaranda,Local,True
+14,Independencia de Latacunga,Local,False
+14,Provincializacion Santa Elena,Regional,True
+14,Provincializacion de Cotopaxi,Regional,True
+14,Provincializacion de Imbabura,Regional,True
+14,Provincializacion de Santo Domingo,Regional,True
+14,Traslado Fundacion de Guayaquil,Local,True
+14,Traslado Fundacion de Quito,Local,False
+15,Cantonizacion de Cayambe,Local,False
+15,Cantonizacion de El Carmen,Local,True
+15,Cantonizacion de Guaranda,Local,False
+15,Cantonizacion de Latacunga,Local,True
+15,Cantonizacion de Libertad,Local,True
+15,Cantonizacion de Quevedo,Local,True
+15,Cantonizacion de Riobamba,Local,True
+15,Cantonizacion de Salinas,Local,True
+15,Cantonizacion del Puyo,Local,True
+15,Fundacion de Ambato,Local,False
+15,Fundacion de Cuenca,Local,False
+15,Fundacion de Esmeraldas,Local,True
+15,Fundacion de Guayaquil,Local,False
+15,Fundacion de Guayaquil-1,Local,True
+15,Fundacion de Ibarra,Local,False
+15,Fundacion de Loja,Local,False
+15,Fundacion de Machala,Local,True
+15,Fundacion de Manta,Local,True
+15,Fundacion de Quito,Local,True
+15,Fundacion de Quito-1,Local,True
+15,Fundacion de Riobamba,Local,False
+15,Fundacion de Santo Domingo,Local,True
+15,Independencia de Ambato,Local,True
+15,Independencia de Guaranda,Local,True
+15,Independencia de Latacunga,Local,True
+15,Provincializacion Santa Elena,Regional,True
+15,Provincializacion de Cotopaxi,Regional,True
+15,Provincializacion de Imbabura,Regional,True
+15,Provincializacion de Santo Domingo,Regional,True
+15,Traslado Fundacion de Guayaquil,Local,True
+15,Traslado Fundacion de Quito,Local,False
+16,Cantonizacion de Cayambe,Local,True
+16,Cantonizacion de El Carmen,Local,True
+16,Cantonizacion de Guaranda,Local,False
+16,Cantonizacion de Latacunga,Local,True
+16,Cantonizacion de Libertad,Local,False
+16,Cantonizacion de Quevedo,Local,True
+16,Cantonizacion de Riobamba,Local,True
+16,Cantonizacion de Salinas,Local,True
+16,Cantonizacion del Puyo,Local,True
+16,Fundacion de Ambato,Local,False
+16,Fundacion de Cuenca,Local,False
+16,Fundacion de Esmeraldas,Local,True
+16,Fundacion de Guayaquil,Local,False
+16,Fundacion de Guayaquil-1,Local,True
+16,Fundacion de Ibarra,Local,False
+16,Fundacion de Loja,Local,False
+16,Fundacion de Machala,Local,True
+16,Fundacion de Manta,Local,True
+16,Fundacion de Quito,Local,False
+16,Fundacion de Quito-1,Local,True
+16,Fundacion de Riobamba,Local,False
+16,Fundacion de Santo Domingo,Local,True
+16,Independencia de Ambato,Local,True
+16,Independencia de Guaranda,Local,False
+16,Independencia de Latacunga,Local,False
+16,Provincializacion Santa Elena,Regional,True
+16,Provincializacion de Cotopaxi,Regional,True
+16,Provincializacion de Imbabura,Regional,True
+16,Provincializacion de Santo Domingo,Regional,True
+16,Traslado Fundacion de Guayaquil,Local,True
+16,Traslado Fundacion de Quito,Local,False
+17,Cantonizacion de Cayambe,Local,False
+17,Cantonizacion de El Carmen,Local,True
+17,Cantonizacion de Guaranda,Local,False
+17,Cantonizacion de Latacunga,Local,True
+17,Cantonizacion de Libertad,Local,True
+17,Cantonizacion de Quevedo,Local,True
+17,Cantonizacion de Riobamba,Local,True
+17,Cantonizacion de Salinas,Local,True
+17,Cantonizacion del Puyo,Local,True
+17,Fundacion de Ambato,Local,False
+17,Fundacion de Cuenca,Local,True
+17,Fundacion de Esmeraldas,Local,True
+17,Fundacion de Guayaquil,Local,False
+17,Fundacion de Guayaquil-1,Local,True
+17,Fundacion de Ibarra,Local,True
+17,Fundacion de Loja,Local,False
+17,Fundacion de Machala,Local,True
+17,Fundacion de Manta,Local,True
+17,Fundacion de Quito,Local,True
+17,Fundacion de Quito-1,Local,True
+17,Fundacion de Riobamba,Local,True
+17,Fundacion de Santo Domingo,Local,True
+17,Independencia de Ambato,Local,True
+17,Independencia de Guaranda,Local,False
+17,Independencia de Latacunga,Local,False
+17,Provincializacion Santa Elena,Regional,True
+17,Provincializacion de Cotopaxi,Regional,True
+17,Provincializacion de Imbabura,Regional,True
+17,Provincializacion de Santo Domingo,Regional,True
+17,Traslado Fundacion de Guayaquil,Local,True
+17,Traslado Fundacion de Quito,Local,False
+18,Cantonizacion de Cayambe,Local,False
+18,Cantonizacion de El Carmen,Local,True
+18,Cantonizacion de Guaranda,Local,False
+18,Cantonizacion de Latacunga,Local,True
+18,Cantonizacion de Libertad,Local,False
+18,Cantonizacion de Quevedo,Local,False
+18,Cantonizacion de Riobamba,Local,True
+18,Cantonizacion de Salinas,Local,True
+18,Cantonizacion del Puyo,Local,True
+18,Fundacion de Ambato,Local,False
+18,Fundacion de Cuenca,Local,False
+18,Fundacion de Esmeraldas,Local,True
+18,Fundacion de Guayaquil,Local,True
+18,Fundacion de Guayaquil-1,Local,True
+18,Fundacion de Ibarra,Local,False
+18,Fundacion de Loja,Local,False
+18,Fundacion de Machala,Local,True
+18,Fundacion de Manta,Local,True
+18,Fundacion de Quito,Local,True
+18,Fundacion de Quito-1,Local,False
+18,Fundacion de Riobamba,Local,False
+18,Fundacion de Santo Domingo,Local,True
+18,Independencia de Ambato,Local,True
+18,Independencia de Guaranda,Local,True
+18,Independencia de Latacunga,Local,False
+18,Provincializacion Santa Elena,Regional,True
+18,Provincializacion de Cotopaxi,Regional,True
+18,Provincializacion de Imbabura,Regional,True
+18,Provincializacion de Santo Domingo,Regional,True
+18,Traslado Fundacion de Guayaquil,Local,True
+18,Traslado Fundacion de Quito,Local,False
+19,Cantonizacion de Cayambe,Local,False
+19,Cantonizacion de El Carmen,Local,True
+19,Cantonizacion de Guaranda,Local,False
+19,Cantonizacion de Latacunga,Local,True
+19,Cantonizacion de Libertad,Local,True
+19,Cantonizacion de Quevedo,Local,True
+19,Cantonizacion de Riobamba,Local,True
+19,Cantonizacion de Salinas,Local,True
+19,Cantonizacion del Puyo,Local,True
+19,Fundacion de Ambato,Local,False
+19,Fundacion de Cuenca,Local,False
+19,Fundacion de Esmeraldas,Local,True
+19,Fundacion de Guayaquil,Local,True
+19,Fundacion de Guayaquil-1,Local,True
+19,Fundacion de Ibarra,Local,False
+19,Fundacion de Loja,Local,False
+19,Fundacion de Machala,Local,True
+19,Fundacion de Manta,Local,True
+19,Fundacion de Quito,Local,False
+19,Fundacion de Quito-1,Local,False
+19,Fundacion de Riobamba,Local,True
+19,Fundacion de Santo Domingo,Local,True
+19,Independencia de Ambato,Local,True
+19,Independencia de Guaranda,Local,True
+19,Independencia de Latacunga,Local,True
+19,Provincializacion Santa Elena,Regional,True
+19,Provincializacion de Cotopaxi,Regional,True
+19,Provincializacion de Imbabura,Regional,True
+19,Provincializacion de Santo Domingo,Regional,True
+19,Traslado Fundacion de Guayaquil,Local,True
+19,Traslado Fundacion de Quito,Local,False
+20,Cantonizacion de Cayambe,Local,False
+20,Cantonizacion de El Carmen,Local,True
+20,Cantonizacion de Guaranda,Local,False
+20,Cantonizacion de Latacunga,Local,True
+20,Cantonizacion de Libertad,Local,False
+20,Cantonizacion de Quevedo,Local,True
+20,Cantonizacion de Riobamba,Local,True
+20,Cantonizacion de Salinas,Local,True
+20,Cantonizacion del Puyo,Local,True
+20,Fundacion de Ambato,Local,False
+20,Fundacion de Cuenca,Local,False
+20,Fundacion de Esmeraldas,Local,True
+20,Fundacion de Guayaquil,Local,False
+20,Fundacion de Guayaquil-1,Local,True
+20,Fundacion de Ibarra,Local,False
+20,Fundacion de Loja,Local,False
+20,Fundacion de Machala,Local,True
+20,Fundacion de Manta,Local,True
+20,Fundacion de Quito,Local,True
+20,Fundacion de Quito-1,Local,False
+20,Fundacion de Riobamba,Local,False
+20,Fundacion de Santo Domingo,Local,True
+20,Independencia de Ambato,Local,True
+20,Independencia de Guaranda,Local,False
+20,Independencia de Latacunga,Local,False
+20,Provincializacion Santa Elena,Regional,True
+20,Provincializacion de Cotopaxi,Regional,True
+20,Provincializacion de Imbabura,Regional,True
+20,Provincializacion de Santo Domingo,Regional,False
+20,Traslado Fundacion de Guayaquil,Local,True
+20,Traslado Fundacion de Quito,Local,False
+21,Cantonizacion de Cayambe,Local,False
+21,Cantonizacion de El Carmen,Local,True
+21,Cantonizacion de Guaranda,Local,False
+21,Cantonizacion de Latacunga,Local,True
+21,Cantonizacion de Libertad,Local,False
+21,Cantonizacion de Quevedo,Local,True
+21,Cantonizacion de Riobamba,Local,True
+21,Cantonizacion de Salinas,Local,True
+21,Cantonizacion del Puyo,Local,True
+21,Fundacion de Ambato,Local,False
+21,Fundacion de Cuenca,Local,False
+21,Fundacion de Esmeraldas,Local,True
+21,Fundacion de Guayaquil,Local,True
+21,Fundacion de Guayaquil-1,Local,True
+21,Fundacion de Ibarra,Local,False
+21,Fundacion de Loja,Local,False
+21,Fundacion de Machala,Local,True
+21,Fundacion de Manta,Local,True
+21,Fundacion de Quito,Local,True
+21,Fundacion de Quito-1,Local,False
+21,Fundacion de Riobamba,Local,False
+21,Fundacion de Santo Domingo,Local,True
+21,Independencia de Ambato,Local,True
+21,Independencia de Guaranda,Local,False
+21,Independencia de Latacunga,Local,False
+21,Provincializacion Santa Elena,Regional,True
+21,Provincializacion de Cotopaxi,Regional,True
+21,Provincializacion de Imbabura,Regional,True
+21,Provincializacion de Santo Domingo,Regional,True
+21,Traslado Fundacion de Guayaquil,Local,True
+21,Traslado Fundacion de Quito,Local,False
+22,Cantonizacion de Cayambe,Local,False
+22,Cantonizacion de El Carmen,Local,True
+22,Cantonizacion de Guaranda,Local,False
+22,Cantonizacion de Latacunga,Local,True
+22,Cantonizacion de Libertad,Local,False
+22,Cantonizacion de Quevedo,Local,True
+22,Cantonizacion de Riobamba,Local,True
+22,Cantonizacion de Salinas,Local,True
+22,Cantonizacion del Puyo,Local,True
+22,Fundacion de Ambato,Local,False
+22,Fundacion de Cuenca,Local,False
+22,Fundacion de Esmeraldas,Local,True
+22,Fundacion de Guayaquil,Local,False
+22,Fundacion de Guayaquil-1,Local,True
+22,Fundacion de Ibarra,Local,False
+22,Fundacion de Loja,Local,False
+22,Fundacion de Machala,Local,True
+22,Fundacion de Manta,Local,True
+22,Fundacion de Quito,Local,True
+22,Fundacion de Quito-1,Local,False
+22,Fundacion de Riobamba,Local,False
+22,Fundacion de Santo Domingo,Local,True
+22,Independencia de Ambato,Local,True
+22,Independencia de Guaranda,Local,False
+22,Independencia de Latacunga,Local,False
+22,Provincializacion Santa Elena,Regional,True
+22,Provincializacion de Cotopaxi,Regional,True
+22,Provincializacion de Imbabura,Regional,True
+22,Provincializacion de Santo Domingo,Regional,True
+22,Traslado Fundacion de Guayaquil,Local,True
+22,Traslado Fundacion de Quito,Local,False
+23,Cantonizacion de Cayambe,Local,True
+23,Cantonizacion de El Carmen,Local,True
+23,Cantonizacion de Guaranda,Local,False
+23,Cantonizacion de Latacunga,Local,True
+23,Cantonizacion de Libertad,Local,False
+23,Cantonizacion de Quevedo,Local,True
+23,Cantonizacion de Riobamba,Local,True
+23,Cantonizacion de Salinas,Local,True
+23,Cantonizacion del Puyo,Local,True
+23,Fundacion de Ambato,Local,False
+23,Fundacion de Cuenca,Local,False
+23,Fundacion de Esmeraldas,Local,True
+23,Fundacion de Guayaquil,Local,False
+23,Fundacion de Guayaquil-1,Local,True
+23,Fundacion de Ibarra,Local,True
+23,Fundacion de Loja,Local,False
+23,Fundacion de Machala,Local,True
+23,Fundacion de Manta,Local,True
+23,Fundacion de Quito,Local,False
+23,Fundacion de Quito-1,Local,False
+23,Fundacion de Riobamba,Local,True
+23,Fundacion de Santo Domingo,Local,True
+23,Independencia de Ambato,Local,True
+23,Independencia de Guaranda,Local,False
+23,Independencia de Latacunga,Local,False
+23,Provincializacion Santa Elena,Regional,True
+23,Provincializacion de Cotopaxi,Regional,True
+23,Provincializacion de Imbabura,Regional,True
+23,Provincializacion de Santo Domingo,Regional,True
+23,Traslado Fundacion de Guayaquil,Local,True
+23,Traslado Fundacion de Quito,Local,False
+24,Cantonizacion de Cayambe,Local,False
+24,Cantonizacion de El Carmen,Local,True
+24,Cantonizacion de Guaranda,Local,False
+24,Cantonizacion de Latacunga,Local,True
+24,Cantonizacion de Libertad,Local,False
+24,Cantonizacion de Quevedo,Local,False
+24,Cantonizacion de Riobamba,Local,True
+24,Cantonizacion de Salinas,Local,True
+24,Cantonizacion del Puyo,Local,True
+24,Fundacion de Ambato,Local,False
+24,Fundacion de Cuenca,Local,True
+24,Fundacion de Esmeraldas,Local,True
+24,Fundacion de Guayaquil,Local,True
+24,Fundacion de Guayaquil-1,Local,True
+24,Fundacion de Ibarra,Local,False
+24,Fundacion de Loja,Local,False
+24,Fundacion de Machala,Local,True
+24,Fundacion de Manta,Local,True
+24,Fundacion de Quito,Local,False
+24,Fundacion de Quito-1,Local,True
+24,Fundacion de Riobamba,Local,True
+24,Fundacion de Santo Domingo,Local,True
+24,Independencia de Ambato,Local,True
+24,Independencia de Guaranda,Local,True
+24,Independencia de Latacunga,Local,False
+24,Provincializacion Santa Elena,Regional,True
+24,Provincializacion de Cotopaxi,Regional,True
+24,Provincializacion de Imbabura,Regional,True
+24,Provincializacion de Santo Domingo,Regional,False
+24,Traslado Fundacion de Guayaquil,Local,True
+24,Traslado Fundacion de Quito,Local,False
+25,Cantonizacion de Cayambe,Local,True
+25,Cantonizacion de El Carmen,Local,True
+25,Cantonizacion de Guaranda,Local,True
+25,Cantonizacion de Latacunga,Local,True
+25,Cantonizacion de Libertad,Local,True
+25,Cantonizacion de Quevedo,Local,True
+25,Cantonizacion de Riobamba,Local,True
+25,Cantonizacion de Salinas,Local,False
+25,Cantonizacion del Puyo,Local,True
+25,Fundacion de Ambato,Local,False
+25,Fundacion de Cuenca,Local,False
+25,Fundacion de Esmeraldas,Local,True
+25,Fundacion de Guayaquil,Local,True
+25,Fundacion de Guayaquil-1,Local,True
+25,Fundacion de Ibarra,Local,True
+25,Fundacion de Loja,Local,False
+25,Fundacion de Machala,Local,True
+25,Fundacion de Manta,Local,True
+25,Fundacion de Quito,Local,False
+25,Fundacion de Quito-1,Local,False
+25,Fundacion de Riobamba,Local,False
+25,Fundacion de Santo Domingo,Local,True
+25,Independencia de Ambato,Local,True
+25,Independencia de Guaranda,Local,False
+25,Independencia de Latacunga,Local,False
+25,Provincializacion Santa Elena,Regional,True
+25,Provincializacion de Cotopaxi,Regional,True
+25,Provincializacion de Imbabura,Regional,True
+25,Provincializacion de Santo Domingo,Regional,False
+25,Traslado Fundacion de Guayaquil,Local,True
+25,Traslado Fundacion de Quito,Local,False
+26,Cantonizacion de Cayambe,Local,False
+26,Cantonizacion de El Carmen,Local,True
+26,Cantonizacion de Guaranda,Local,False
+26,Cantonizacion de Latacunga,Local,True
+26,Cantonizacion de Libertad,Local,False
+26,Cantonizacion de Quevedo,Local,False
+26,Cantonizacion de Riobamba,Local,True
+26,Cantonizacion de Salinas,Local,True
+26,Cantonizacion del Puyo,Local,True
+26,Fundacion de Ambato,Local,False
+26,Fundacion de Cuenca,Local,False
+26,Fundacion de Esmeraldas,Local,True
+26,Fundacion de Guayaquil,Local,True
+26,Fundacion de Guayaquil-1,Local,True
+26,Fundacion de Ibarra,Local,False
+26,Fundacion de Loja,Local,False
+26,Fundacion de Machala,Local,True
+26,Fundacion de Manta,Local,True
+26,Fundacion de Quito,Local,False
+26,Fundacion de Quito-1,Local,True
+26,Fundacion de Riobamba,Local,False
+26,Fundacion de Santo Domingo,Local,True
+26,Independencia de Ambato,Local,True
+26,Independencia de Guaranda,Local,False
+26,Independencia de Latacunga,Local,False
+26,Provincializacion Santa Elena,Regional,True
+26,Provincializacion de Cotopaxi,Regional,True
+26,Provincializacion de Imbabura,Regional,True
+26,Provincializacion de Santo Domingo,Regional,True
+26,Traslado Fundacion de Guayaquil,Local,True
+26,Traslado Fundacion de Quito,Local,False
+27,Cantonizacion de Cayambe,Local,False
+27,Cantonizacion de El Carmen,Local,True
+27,Cantonizacion de Guaranda,Local,False
+27,Cantonizacion de Latacunga,Local,True
+27,Cantonizacion de Libertad,Local,True
+27,Cantonizacion de Quevedo,Local,False
+27,Cantonizacion de Riobamba,Local,True
+27,Cantonizacion de Salinas,Local,True
+27,Cantonizacion del Puyo,Local,True
+27,Fundacion de Ambato,Local,False
+27,Fundacion de Cuenca,Local,True
+27,Fundacion de Esmeraldas,Local,True
+27,Fundacion de Guayaquil,Local,True
+27,Fundacion de Guayaquil-1,Local,True
+27,Fundacion de Ibarra,Local,False
+27,Fundacion de Loja,Local,False
+27,Fundacion de Machala,Local,True
+27,Fundacion de Manta,Local,True
+27,Fundacion de Quito,Local,False
+27,Fundacion de Quito-1,Local,True
+27,Fundacion de Riobamba,Local,True
+27,Fundacion de Santo Domingo,Local,True
+27,Independencia de Ambato,Local,True
+27,Independencia de Guaranda,Local,False
+27,Independencia de Latacunga,Local,False
+27,Provincializacion Santa Elena,Regional,False
+27,Provincializacion de Cotopaxi,Regional,True
+27,Provincializacion de Imbabura,Regional,True
+27,Provincializacion de Santo Domingo,Regional,False
+27,Traslado Fundacion de Guayaquil,Local,True
+27,Traslado Fundacion de Quito,Local,False
+28,Cantonizacion de Cayambe,Local,False
+28,Cantonizacion de El Carmen,Local,True
+28,Cantonizacion de Guaranda,Local,False
+28,Cantonizacion de Latacunga,Local,True
+28,Cantonizacion de Libertad,Local,True
+28,Cantonizacion de Quevedo,Local,True
+28,Cantonizacion de Riobamba,Local,True
+28,Cantonizacion de Salinas,Local,True
+28,Cantonizacion del Puyo,Local,True
+28,Fundacion de Ambato,Local,False
+28,Fundacion de Cuenca,Local,True
+28,Fundacion de Esmeraldas,Local,True
+28,Fundacion de Guayaquil,Local,True
+28,Fundacion de Guayaquil-1,Local,True
+28,Fundacion de Ibarra,Local,False
+28,Fundacion de Loja,Local,False
+28,Fundacion de Machala,Local,True
+28,Fundacion de Manta,Local,True
+28,Fundacion de Quito,Local,True
+28,Fundacion de Quito-1,Local,False
+28,Fundacion de Riobamba,Local,False
+28,Fundacion de Santo Domingo,Local,True
+28,Independencia de Ambato,Local,True
+28,Independencia de Guaranda,Local,False
+28,Independencia de Latacunga,Local,False
+28,Provincializacion Santa Elena,Regional,False
+28,Provincializacion de Cotopaxi,Regional,True
+28,Provincializacion de Imbabura,Regional,True
+28,Provincializacion de Santo Domingo,Regional,True
+28,Traslado Fundacion de Guayaquil,Local,True
+28,Traslado Fundacion de Quito,Local,False
+29,Cantonizacion de Cayambe,Local,False
+29,Cantonizacion de El Carmen,Local,True
+29,Cantonizacion de Guaranda,Local,False
+29,Cantonizacion de Latacunga,Local,True
+29,Cantonizacion de Libertad,Local,False
+29,Cantonizacion de Quevedo,Local,False
+29,Cantonizacion de Riobamba,Local,True
+29,Cantonizacion de Salinas,Local,True
+29,Cantonizacion del Puyo,Local,True
+29,Fundacion de Ambato,Local,False
+29,Fundacion de Cuenca,Local,False
+29,Fundacion de Esmeraldas,Local,True
+29,Fundacion de Guayaquil,Local,False
+29,Fundacion de Guayaquil-1,Local,True
+29,Fundacion de Ibarra,Local,False
+29,Fundacion de Loja,Local,False
+29,Fundacion de Machala,Local,True
+29,Fundacion de Manta,Local,True
+29,Fundacion de Quito,Local,True
+29,Fundacion de Quito-1,Local,False
+29,Fundacion de Riobamba,Local,False
+29,Fundacion de Santo Domingo,Local,True
+29,Independencia de Ambato,Local,True
+29,Independencia de Guaranda,Local,False
+29,Independencia de Latacunga,Local,True
+29,Provincializacion Santa Elena,Regional,False
+29,Provincializacion de Cotopaxi,Regional,True
+29,Provincializacion de Imbabura,Regional,True
+29,Provincializacion de Santo Domingo,Regional,True
+29,Traslado Fundacion de Guayaquil,Local,True
+29,Traslado Fundacion de Quito,Local,False
+30,Cantonizacion de Cayambe,Local,False
+30,Cantonizacion de El Carmen,Local,True
+30,Cantonizacion de Guaranda,Local,False
+30,Cantonizacion de Latacunga,Local,True
+30,Cantonizacion de Libertad,Local,True
+30,Cantonizacion de Quevedo,Local,True
+30,Cantonizacion de Riobamba,Local,True
+30,Cantonizacion de Salinas,Local,True
+30,Cantonizacion del Puyo,Local,True
+30,Fundacion de Ambato,Local,False
+30,Fundacion de Cuenca,Local,True
+30,Fundacion de Esmeraldas,Local,True
+30,Fundacion de Guayaquil,Local,False
+30,Fundacion de Guayaquil-1,Local,True
+30,Fundacion de Ibarra,Local,False
+30,Fundacion de Loja,Local,False
+30,Fundacion de Machala,Local,True
+30,Fundacion de Manta,Local,True
+30,Fundacion de Quito,Local,True
+30,Fundacion de Quito-1,Local,False
+30,Fundacion de Riobamba,Local,False
+30,Fundacion de Santo Domingo,Local,True
+30,Independencia de Ambato,Local,True
+30,Independencia de Guaranda,Local,True
+30,Independencia de Latacunga,Local,False
+30,Provincializacion Santa Elena,Regional,False
+30,Provincializacion de Cotopaxi,Regional,True
+30,Provincializacion de Imbabura,Regional,True
+30,Provincializacion de Santo Domingo,Regional,True
+30,Traslado Fundacion de Guayaquil,Local,True
+30,Traslado Fundacion de Quito,Local,False
+31,Cantonizacion de Cayambe,Local,False
+31,Cantonizacion de El Carmen,Local,True
+31,Cantonizacion de Guaranda,Local,False
+31,Cantonizacion de Latacunga,Local,True
+31,Cantonizacion de Libertad,Local,True
+31,Cantonizacion de Quevedo,Local,True
+31,Cantonizacion de Riobamba,Local,True
+31,Cantonizacion de Salinas,Local,True
+31,Cantonizacion del Puyo,Local,True
+31,Fundacion de Ambato,Local,False
+31,Fundacion de Cuenca,Local,True
+31,Fundacion de Esmeraldas,Local,True
+31,Fundacion de Guayaquil,Local,False
+31,Fundacion de Guayaquil-1,Local,True
+31,Fundacion de Ibarra,Local,False
+31,Fundacion de Loja,Local,False
+31,Fundacion de Machala,Local,True
+31,Fundacion de Manta,Local,True
+31,Fundacion de Quito,Local,False
+31,Fundacion de Quito-1,Local,False
+31,Fundacion de Riobamba,Local,False
+31,Fundacion de Santo Domingo,Local,True
+31,Independencia de Ambato,Local,True
+31,Independencia de Guaranda,Local,False
+31,Independencia de Latacunga,Local,False
+31,Provincializacion Santa Elena,Regional,True
+31,Provincializacion de Cotopaxi,Regional,True
+31,Provincializacion de Imbabura,Regional,True
+31,Provincializacion de Santo Domingo,Regional,True
+31,Traslado Fundacion de Guayaquil,Local,True
+31,Traslado Fundacion de Quito,Local,False
+32,Cantonizacion de Cayambe,Local,False
+32,Cantonizacion de El Carmen,Local,True
+32,Cantonizacion de Guaranda,Local,False
+32,Cantonizacion de Latacunga,Local,True
+32,Cantonizacion de Libertad,Local,True
+32,Cantonizacion de Quevedo,Local,False
+32,Cantonizacion de Riobamba,Local,True
+32,Cantonizacion de Salinas,Local,True
+32,Cantonizacion del Puyo,Local,True
+32,Fundacion de Ambato,Local,False
+32,Fundacion de Cuenca,Local,True
+32,Fundacion de Esmeraldas,Local,True
+32,Fundacion de Guayaquil,Local,True
+32,Fundacion de Guayaquil-1,Local,True
+32,Fundacion de Ibarra,Local,True
+32,Fundacion de Loja,Local,False
+32,Fundacion de Machala,Local,True
+32,Fundacion de Manta,Local,True
+32,Fundacion de Quito,Local,False
+32,Fundacion de Quito-1,Local,True
+32,Fundacion de Riobamba,Local,False
+32,Fundacion de Santo Domingo,Local,True
+32,Independencia de Ambato,Local,True
+32,Independencia de Guaranda,Local,False
+32,Independencia de Latacunga,Local,False
+32,Provincializacion Santa Elena,Regional,True
+32,Provincializacion de Cotopaxi,Regional,True
+32,Provincializacion de Imbabura,Regional,True
+32,Provincializacion de Santo Domingo,Regional,True
+32,Traslado Fundacion de Guayaquil,Local,True
+32,Traslado Fundacion de Quito,Local,False
+33,Cantonizacion de Cayambe,Local,False
+33,Cantonizacion de El Carmen,Local,True
+33,Cantonizacion de Guaranda,Local,False
+33,Cantonizacion de Latacunga,Local,True
+33,Cantonizacion de Libertad,Local,True
+33,Cantonizacion de Quevedo,Local,False
+33,Cantonizacion de Riobamba,Local,True
+33,Cantonizacion de Salinas,Local,True
+33,Cantonizacion del Puyo,Local,True
+33,Fundacion de Ambato,Local,False
+33,Fundacion de Cuenca,Local,True
+33,Fundacion de Esmeraldas,Local,True
+33,Fundacion de Guayaquil,Local,False
+33,Fundacion de Guayaquil-1,Local,True
+33,Fundacion de Ibarra,Local,False
+33,Fundacion de Loja,Local,False
+33,Fundacion de Machala,Local,True
+33,Fundacion de Manta,Local,True
+33,Fundacion de Quito,Local,False
+33,Fundacion de Quito-1,Local,False
+33,Fundacion de Riobamba,Local,False
+33,Fundacion de Santo Domingo,Local,True
+33,Independencia de Ambato,Local,True
+33,Independencia de Guaranda,Local,True
+33,Independencia de Latacunga,Local,False
+33,Provincializacion Santa Elena,Regional,True
+33,Provincializacion de Cotopaxi,Regional,True
+33,Provincializacion de Imbabura,Regional,True
+33,Provincializacion de Santo Domingo,Regional,True
+33,Traslado Fundacion de Guayaquil,Local,True
+33,Traslado Fundacion de Quito,Local,False
+34,Cantonizacion de Cayambe,Local,False
+34,Cantonizacion de El Carmen,Local,True
+34,Cantonizacion de Guaranda,Local,False
+34,Cantonizacion de Latacunga,Local,True
+34,Cantonizacion de Libertad,Local,False
+34,Cantonizacion de Quevedo,Local,True
+34,Cantonizacion de Riobamba,Local,True
+34,Cantonizacion de Salinas,Local,True
+34,Cantonizacion del Puyo,Local,True
+34,Fundacion de Ambato,Local,False
+34,Fundacion de Cuenca,Local,False
+34,Fundacion de Esmeraldas,Local,True
+34,Fundacion de Guayaquil,Local,False
+34,Fundacion de Guayaquil-1,Local,True
+34,Fundacion de Ibarra,Local,False
+34,Fundacion de Loja,Local,False
+34,Fundacion de Machala,Local,True
+34,Fundacion de Manta,Local,True
+34,Fundacion de Quito,Local,False
+34,Fundacion de Quito-1,Local,True
+34,Fundacion de Riobamba,Local,False
+34,Fundacion de Santo Domingo,Local,True
+34,Independencia de Ambato,Local,True
+34,Independencia de Guaranda,Local,False
+34,Independencia de Latacunga,Local,False
+34,Provincializacion Santa Elena,Regional,True
+34,Provincializacion de Cotopaxi,Regional,True
+34,Provincializacion de Imbabura,Regional,True
+34,Provincializacion de Santo Domingo,Regional,True
+34,Traslado Fundacion de Guayaquil,Local,True
+34,Traslado Fundacion de Quito,Local,False
+35,Cantonizacion de Cayambe,Local,True
+35,Cantonizacion de El Carmen,Local,True
+35,Cantonizacion de Guaranda,Local,True
+35,Cantonizacion de Latacunga,Local,True
+35,Cantonizacion de Libertad,Local,True
+35,Cantonizacion de Quevedo,Local,True
+35,Cantonizacion de Riobamba,Local,True
+35,Cantonizacion de Salinas,Local,True
+35,Cantonizacion del Puyo,Local,True
+35,Fundacion de Ambato,Local,True
+35,Fundacion de Cuenca,Local,False
+35,Fundacion de Esmeraldas,Local,True
+35,Fundacion de Guayaquil,Local,True
+35,Fundacion de Guayaquil-1,Local,True
+35,Fundacion de Ibarra,Local,False
+35,Fundacion de Loja,Local,True
+35,Fundacion de Machala,Local,True
+35,Fundacion de Manta,Local,True
+35,Fundacion de Quito,Local,False
+35,Fundacion de Quito-1,Local,False
+35,Fundacion de Riobamba,Local,True
+35,Fundacion de Santo Domingo,Local,True
+35,Independencia de Ambato,Local,True
+35,Independencia de Guaranda,Local,False
+35,Independencia de Latacunga,Local,False
+35,Provincializacion Santa Elena,Regional,True
+35,Provincializacion de Cotopaxi,Regional,True
+35,Provincializacion de Imbabura,Regional,True
+35,Provincializacion de Santo Domingo,Regional,True
+35,Traslado Fundacion de Guayaquil,Local,True
+35,Traslado Fundacion de Quito,Local,False
+36,Cantonizacion de Cayambe,Local,False
+36,Cantonizacion de El Carmen,Local,True
+36,Cantonizacion de Guaranda,Local,False
+36,Cantonizacion de Latacunga,Local,True
+36,Cantonizacion de Libertad,Local,False
+36,Cantonizacion de Quevedo,Local,True
+36,Cantonizacion de Riobamba,Local,True
+36,Cantonizacion de Salinas,Local,True
+36,Cantonizacion del Puyo,Local,True
+36,Fundacion de Ambato,Local,True
+36,Fundacion de Cuenca,Local,False
+36,Fundacion de Esmeraldas,Local,True
+36,Fundacion de Guayaquil,Local,False
+36,Fundacion de Guayaquil-1,Local,True
+36,Fundacion de Ibarra,Local,True
+36,Fundacion de Loja,Local,False
+36,Fundacion de Machala,Local,True
+36,Fundacion de Manta,Local,True
+36,Fundacion de Quito,Local,False
+36,Fundacion de Quito-1,Local,False
+36,Fundacion de Riobamba,Local,False
+36,Fundacion de Santo Domingo,Local,True
+36,Independencia de Ambato,Local,True
+36,Independencia de Guaranda,Local,False
+36,Independencia de Latacunga,Local,False
+36,Provincializacion Santa Elena,Regional,True
+36,Provincializacion de Cotopaxi,Regional,True
+36,Provincializacion de Imbabura,Regional,True
+36,Provincializacion de Santo Domingo,Regional,True
+36,Traslado Fundacion de Guayaquil,Local,True
+36,Traslado Fundacion de Quito,Local,False
+37,Cantonizacion de Cayambe,Local,False
+37,Cantonizacion de El Carmen,Local,True
+37,Cantonizacion de Guaranda,Local,False
+37,Cantonizacion de Latacunga,Local,True
+37,Cantonizacion de Libertad,Local,False
+37,Cantonizacion de Quevedo,Local,True
+37,Cantonizacion de Riobamba,Local,True
+37,Cantonizacion de Salinas,Local,True
+37,Cantonizacion del Puyo,Local,True
+37,Fundacion de Ambato,Local,False
+37,Fundacion de Cuenca,Local,False
+37,Fundacion de Esmeraldas,Local,True
+37,Fundacion de Guayaquil,Local,True
+37,Fundacion de Guayaquil-1,Local,True
+37,Fundacion de Ibarra,Local,True
+37,Fundacion de Loja,Local,False
+37,Fundacion de Machala,Local,True
+37,Fundacion de Manta,Local,True
+37,Fundacion de Quito,Local,False
+37,Fundacion de Quito-1,Local,True
+37,Fundacion de Riobamba,Local,False
+37,Fundacion de Santo Domingo,Local,True
+37,Independencia de Ambato,Local,True
+37,Independencia de Guaranda,Local,True
+37,Independencia de Latacunga,Local,False
+37,Provincializacion Santa Elena,Regional,True
+37,Provincializacion de Cotopaxi,Regional,True
+37,Provincializacion de Imbabura,Regional,True
+37,Provincializacion de Santo Domingo,Regional,True
+37,Traslado Fundacion de Guayaquil,Local,True
+37,Traslado Fundacion de Quito,Local,False
+38,Cantonizacion de Cayambe,Local,False
+38,Cantonizacion de El Carmen,Local,True
+38,Cantonizacion de Guaranda,Local,False
+38,Cantonizacion de Latacunga,Local,True
+38,Cantonizacion de Libertad,Local,False
+38,Cantonizacion de Quevedo,Local,True
+38,Cantonizacion de Riobamba,Local,True
+38,Cantonizacion de Salinas,Local,True
+38,Cantonizacion del Puyo,Local,True
+38,Fundacion de Ambato,Local,True
+38,Fundacion de Cuenca,Local,False
+38,Fundacion de Esmeraldas,Local,True
+38,Fundacion de Guayaquil,Local,False
+38,Fundacion de Guayaquil-1,Local,True
+38,Fundacion de Ibarra,Local,True
+38,Fundacion de Loja,Local,True
+38,Fundacion de Machala,Local,True
+38,Fundacion de Manta,Local,True
+38,Fundacion de Quito,Local,False
+38,Fundacion de Quito-1,Local,True
+38,Fundacion de Riobamba,Local,False
+38,Fundacion de Santo Domingo,Local,True
+38,Independencia de Ambato,Local,True
+38,Independencia de Guaranda,Local,False
+38,Independencia de Latacunga,Local,False
+38,Provincializacion Santa Elena,Regional,True
+38,Provincializacion de Cotopaxi,Regional,True
+38,Provincializacion de Imbabura,Regional,True
+38,Provincializacion de Santo Domingo,Regional,True
+38,Traslado Fundacion de Guayaquil,Local,True
+38,Traslado Fundacion de Quito,Local,False
+39,Cantonizacion de Cayambe,Local,False
+39,Cantonizacion de El Carmen,Local,True
+39,Cantonizacion de Guaranda,Local,False
+39,Cantonizacion de Latacunga,Local,True
+39,Cantonizacion de Libertad,Local,True
+39,Cantonizacion de Quevedo,Local,True
+39,Cantonizacion de Riobamba,Local,True
+39,Cantonizacion de Salinas,Local,True
+39,Cantonizacion del Puyo,Local,True
+39,Fundacion de Ambato,Local,False
+39,Fundacion de Cuenca,Local,True
+39,Fundacion de Esmeraldas,Local,True
+39,Fundacion de Guayaquil,Local,False
+39,Fundacion de Guayaquil-1,Local,True
+39,Fundacion de Ibarra,Local,False
+39,Fundacion de Loja,Local,False
+39,Fundacion de Machala,Local,True
+39,Fundacion de Manta,Local,True
+39,Fundacion de Quito,Local,False
+39,Fundacion de Quito-1,Local,True
+39,Fundacion de Riobamba,Local,False
+39,Fundacion de Santo Domingo,Local,True
+39,Independencia de Ambato,Local,True
+39,Independencia de Guaranda,Local,True
+39,Independencia de Latacunga,Local,False
+39,Provincializacion Santa Elena,Regional,True
+39,Provincializacion de Cotopaxi,Regional,True
+39,Provincializacion de Imbabura,Regional,True
+39,Provincializacion de Santo Domingo,Regional,True
+39,Traslado Fundacion de Guayaquil,Local,True
+39,Traslado Fundacion de Quito,Local,False
+40,Cantonizacion de Cayambe,Local,False
+40,Cantonizacion de El Carmen,Local,True
+40,Cantonizacion de Guaranda,Local,False
+40,Cantonizacion de Latacunga,Local,True
+40,Cantonizacion de Libertad,Local,True
+40,Cantonizacion de Quevedo,Local,True
+40,Cantonizacion de Riobamba,Local,True
+40,Cantonizacion de Salinas,Local,True
+40,Cantonizacion del Puyo,Local,True
+40,Fundacion de Ambato,Local,False
+40,Fundacion de Cuenca,Local,False
+40,Fundacion de Esmeraldas,Local,True
+40,Fundacion de Guayaquil,Local,False
+40,Fundacion de Guayaquil-1,Local,True
+40,Fundacion de Ibarra,Local,False
+40,Fundacion de Loja,Local,False
+40,Fundacion de Machala,Local,True
+40,Fundacion de Manta,Local,True
+40,Fundacion de Quito,Local,True
+40,Fundacion de Quito-1,Local,False
+40,Fundacion de Riobamba,Local,False
+40,Fundacion de Santo Domingo,Local,True
+40,Independencia de Ambato,Local,True
+40,Independencia de Guaranda,Local,False
+40,Independencia de Latacunga,Local,False
+40,Provincializacion Santa Elena,Regional,True
+40,Provincializacion de Cotopaxi,Regional,True
+40,Provincializacion de Imbabura,Regional,True
+40,Provincializacion de Santo Domingo,Regional,True
+40,Traslado Fundacion de Guayaquil,Local,True
+40,Traslado Fundacion de Quito,Local,False
+41,Cantonizacion de Cayambe,Local,False
+41,Cantonizacion de El Carmen,Local,True
+41,Cantonizacion de Guaranda,Local,False
+41,Cantonizacion de Latacunga,Local,True
+41,Cantonizacion de Libertad,Local,False
+41,Cantonizacion de Quevedo,Local,True
+41,Cantonizacion de Riobamba,Local,True
+41,Cantonizacion de Salinas,Local,True
+41,Cantonizacion del Puyo,Local,True
+41,Fundacion de Ambato,Local,False
+41,Fundacion de Cuenca,Local,True
+41,Fundacion de Esmeraldas,Local,True
+41,Fundacion de Guayaquil,Local,False
+41,Fundacion de Guayaquil-1,Local,True
+41,Fundacion de Ibarra,Local,False
+41,Fundacion de Loja,Local,False
+41,Fundacion de Machala,Local,True
+41,Fundacion de Manta,Local,True
+41,Fundacion de Quito,Local,False
+41,Fundacion de Quito-1,Local,False
+41,Fundacion de Riobamba,Local,False
+41,Fundacion de Santo Domingo,Local,True
+41,Independencia de Ambato,Local,True
+41,Independencia de Guaranda,Local,True
+41,Independencia de Latacunga,Local,False
+41,Provincializacion Santa Elena,Regional,True
+41,Provincializacion de Cotopaxi,Regional,True
+41,Provincializacion de Imbabura,Regional,True
+41,Provincializacion de Santo Domingo,Regional,True
+41,Traslado Fundacion de Guayaquil,Local,True
+41,Traslado Fundacion de Quito,Local,False
+42,Cantonizacion de Cayambe,Local,False
+42,Cantonizacion de El Carmen,Local,True
+42,Cantonizacion de Guaranda,Local,False
+42,Cantonizacion de Latacunga,Local,True
+42,Cantonizacion de Libertad,Local,False
+42,Cantonizacion de Quevedo,Local,True
+42,Cantonizacion de Riobamba,Local,True
+42,Cantonizacion de Salinas,Local,True
+42,Cantonizacion del Puyo,Local,True
+42,Fundacion de Ambato,Local,True
+42,Fundacion de Cuenca,Local,False
+42,Fundacion de Esmeraldas,Local,False
+42,Fundacion de Guayaquil,Local,False
+42,Fundacion de Guayaquil-1,Local,True
+42,Fundacion de Ibarra,Local,True
+42,Fundacion de Loja,Local,False
+42,Fundacion de Machala,Local,True
+42,Fundacion de Manta,Local,True
+42,Fundacion de Quito,Local,False
+42,Fundacion de Quito-1,Local,False
+42,Fundacion de Riobamba,Local,False
+42,Fundacion de Santo Domingo,Local,True
+42,Independencia de Ambato,Local,True
+42,Independencia de Guaranda,Local,False
+42,Independencia de Latacunga,Local,False
+42,Provincializacion Santa Elena,Regional,True
+42,Provincializacion de Cotopaxi,Regional,True
+42,Provincializacion de Imbabura,Regional,True
+42,Provincializacion de Santo Domingo,Regional,True
+42,Traslado Fundacion de Guayaquil,Local,True
+42,Traslado Fundacion de Quito,Local,False
+43,Cantonizacion de Cayambe,Local,False
+43,Cantonizacion de El Carmen,Local,True
+43,Cantonizacion de Guaranda,Local,False
+43,Cantonizacion de Latacunga,Local,True
+43,Cantonizacion de Libertad,Local,True
+43,Cantonizacion de Quevedo,Local,True
+43,Cantonizacion de Riobamba,Local,True
+43,Cantonizacion de Salinas,Local,True
+43,Cantonizacion del Puyo,Local,True
+43,Fundacion de Ambato,Local,False
+43,Fundacion de Cuenca,Local,False
+43,Fundacion de Esmeraldas,Local,True
+43,Fundacion de Guayaquil,Local,False
+43,Fundacion de Guayaquil-1,Local,True
+43,Fundacion de Ibarra,Local,False
+43,Fundacion de Loja,Local,False
+43,Fundacion de Machala,Local,True
+43,Fundacion de Manta,Local,True
+43,Fundacion de Quito,Local,True
+43,Fundacion de Quito-1,Local,False
+43,Fundacion de Riobamba,Local,False
+43,Fundacion de Santo Domingo,Local,True
+43,Independencia de Ambato,Local,True
+43,Independencia de Guaranda,Local,False
+43,Independencia de Latacunga,Local,False
+43,Provincializacion Santa Elena,Regional,True
+43,Provincializacion de Cotopaxi,Regional,True
+43,Provincializacion de Imbabura,Regional,True
+43,Provincializacion de Santo Domingo,Regional,True
+43,Traslado Fundacion de Guayaquil,Local,True
+43,Traslado Fundacion de Quito,Local,False
+44,Cantonizacion de Cayambe,Local,False
+44,Cantonizacion de El Carmen,Local,True
+44,Cantonizacion de Guaranda,Local,True
+44,Cantonizacion de Latacunga,Local,True
+44,Cantonizacion de Libertad,Local,False
+44,Cantonizacion de Quevedo,Local,True
+44,Cantonizacion de Riobamba,Local,True
+44,Cantonizacion de Salinas,Local,True
+44,Cantonizacion del Puyo,Local,True
+44,Fundacion de Ambato,Local,False
+44,Fundacion de Cuenca,Local,False
+44,Fundacion de Esmeraldas,Local,True
+44,Fundacion de Guayaquil,Local,True
+44,Fundacion de Guayaquil-1,Local,True
+44,Fundacion de Ibarra,Local,False
+44,Fundacion de Loja,Local,False
+44,Fundacion de Machala,Local,True
+44,Fundacion de Manta,Local,True
+44,Fundacion de Quito,Local,True
+44,Fundacion de Quito-1,Local,False
+44,Fundacion de Riobamba,Local,True
+44,Fundacion de Santo Domingo,Local,True
+44,Independencia de Ambato,Local,True
+44,Independencia de Guaranda,Local,False
+44,Independencia de Latacunga,Local,False
+44,Provincializacion Santa Elena,Regional,True
+44,Provincializacion de Cotopaxi,Regional,True
+44,Provincializacion de Imbabura,Regional,True
+44,Provincializacion de Santo Domingo,Regional,True
+44,Traslado Fundacion de Guayaquil,Local,True
+44,Traslado Fundacion de Quito,Local,False
+45,Cantonizacion de Cayambe,Local,False
+45,Cantonizacion de El Carmen,Local,True
+45,Cantonizacion de Guaranda,Local,False
+45,Cantonizacion de Latacunga,Local,True
+45,Cantonizacion de Libertad,Local,False
+45,Cantonizacion de Quevedo,Local,True
+45,Cantonizacion de Riobamba,Local,True
+45,Cantonizacion de Salinas,Local,True
+45,Cantonizacion del Puyo,Local,True
+45,Fundacion de Ambato,Local,False
+45,Fundacion de Cuenca,Local,False
+45,Fundacion de Esmeraldas,Local,True
+45,Fundacion de Guayaquil,Local,False
+45,Fundacion de Guayaquil-1,Local,True
+45,Fundacion de Ibarra,Local,False
+45,Fundacion de Loja,Local,False
+45,Fundacion de Machala,Local,True
+45,Fundacion de Manta,Local,True
+45,Fundacion de Quito,Local,False
+45,Fundacion de Quito-1,Local,False
+45,Fundacion de Riobamba,Local,True
+45,Fundacion de Santo Domingo,Local,True
+45,Independencia de Ambato,Local,True
+45,Independencia de Guaranda,Local,False
+45,Independencia de Latacunga,Local,False
+45,Provincializacion Santa Elena,Regional,True
+45,Provincializacion de Cotopaxi,Regional,True
+45,Provincializacion de Imbabura,Regional,True
+45,Provincializacion de Santo Domingo,Regional,True
+45,Traslado Fundacion de Guayaquil,Local,True
+45,Traslado Fundacion de Quito,Local,False
+46,Cantonizacion de Cayambe,Local,False
+46,Cantonizacion de El Carmen,Local,True
+46,Cantonizacion de Guaranda,Local,False
+46,Cantonizacion de Latacunga,Local,True
+46,Cantonizacion de Libertad,Local,False
+46,Cantonizacion de Quevedo,Local,True
+46,Cantonizacion de Riobamba,Local,True
+46,Cantonizacion de Salinas,Local,True
+46,Cantonizacion del Puyo,Local,True
+46,Fundacion de Ambato,Local,False
+46,Fundacion de Cuenca,Local,False
+46,Fundacion de Esmeraldas,Local,True
+46,Fundacion de Guayaquil,Local,False
+46,Fundacion de Guayaquil-1,Local,True
+46,Fundacion de Ibarra,Local,False
+46,Fundacion de Loja,Local,False
+46,Fundacion de Machala,Local,True
+46,Fundacion de Manta,Local,True
+46,Fundacion de Quito,Local,True
+46,Fundacion de Quito-1,Local,False
+46,Fundacion de Riobamba,Local,False
+46,Fundacion de Santo Domingo,Local,True
+46,Independencia de Ambato,Local,True
+46,Independencia de Guaranda,Local,False
+46,Independencia de Latacunga,Local,False
+46,Provincializacion Santa Elena,Regional,True
+46,Provincializacion de Cotopaxi,Regional,True
+46,Provincializacion de Imbabura,Regional,True
+46,Provincializacion de Santo Domingo,Regional,True
+46,Traslado Fundacion de Guayaquil,Local,True
+46,Traslado Fundacion de Quito,Local,False
+47,Cantonizacion de Cayambe,Local,False
+47,Cantonizacion de El Carmen,Local,True
+47,Cantonizacion de Guaranda,Local,False
+47,Cantonizacion de Latacunga,Local,True
+47,Cantonizacion de Libertad,Local,True
+47,Cantonizacion de Quevedo,Local,True
+47,Cantonizacion de Riobamba,Local,True
+47,Cantonizacion de Salinas,Local,True
+47,Cantonizacion del Puyo,Local,True
+47,Fundacion de Ambato,Local,False
+47,Fundacion de Cuenca,Local,False
+47,Fundacion de Esmeraldas,Local,True
+47,Fundacion de Guayaquil,Local,False
+47,Fundacion de Guayaquil-1,Local,True
+47,Fundacion de Ibarra,Local,False
+47,Fundacion de Loja,Local,False
+47,Fundacion de Machala,Local,True
+47,Fundacion de Manta,Local,True
+47,Fundacion de Quito,Local,True
+47,Fundacion de Quito-1,Local,False
+47,Fundacion de Riobamba,Local,False
+47,Fundacion de Santo Domingo,Local,True
+47,Independencia de Ambato,Local,True
+47,Independencia de Guaranda,Local,False
+47,Independencia de Latacunga,Local,False
+47,Provincializacion Santa Elena,Regional,True
+47,Provincializacion de Cotopaxi,Regional,True
+47,Provincializacion de Imbabura,Regional,True
+47,Provincializacion de Santo Domingo,Regional,True
+47,Traslado Fundacion de Guayaquil,Local,True
+47,Traslado Fundacion de Quito,Local,False
+48,Cantonizacion de Cayambe,Local,False
+48,Cantonizacion de El Carmen,Local,True
+48,Cantonizacion de Guaranda,Local,False
+48,Cantonizacion de Latacunga,Local,True
+48,Cantonizacion de Libertad,Local,False
+48,Cantonizacion de Quevedo,Local,True
+48,Cantonizacion de Riobamba,Local,True
+48,Cantonizacion de Salinas,Local,True
+48,Cantonizacion del Puyo,Local,True
+48,Fundacion de Ambato,Local,False
+48,Fundacion de Cuenca,Local,False
+48,Fundacion de Esmeraldas,Local,True
+48,Fundacion de Guayaquil,Local,False
+48,Fundacion de Guayaquil-1,Local,True
+48,Fundacion de Ibarra,Local,False
+48,Fundacion de Loja,Local,False
+48,Fundacion de Machala,Local,True
+48,Fundacion de Manta,Local,True
+48,Fundacion de Quito,Local,True
+48,Fundacion de Quito-1,Local,False
+48,Fundacion de Riobamba,Local,False
+48,Fundacion de Santo Domingo,Local,True
+48,Independencia de Ambato,Local,True
+48,Independencia de Guaranda,Local,False
+48,Independencia de Latacunga,Local,False
+48,Provincializacion Santa Elena,Regional,True
+48,Provincializacion de Cotopaxi,Regional,True
+48,Provincializacion de Imbabura,Regional,True
+48,Provincializacion de Santo Domingo,Regional,True
+48,Traslado Fundacion de Guayaquil,Local,True
+48,Traslado Fundacion de Quito,Local,False
+49,Cantonizacion de Cayambe,Local,False
+49,Cantonizacion de El Carmen,Local,True
+49,Cantonizacion de Guaranda,Local,False
+49,Cantonizacion de Latacunga,Local,True
+49,Cantonizacion de Libertad,Local,True
+49,Cantonizacion de Quevedo,Local,True
+49,Cantonizacion de Riobamba,Local,True
+49,Cantonizacion de Salinas,Local,True
+49,Cantonizacion del Puyo,Local,True
+49,Fundacion de Ambato,Local,False
+49,Fundacion de Cuenca,Local,False
+49,Fundacion de Esmeraldas,Local,True
+49,Fundacion de Guayaquil,Local,False
+49,Fundacion de Guayaquil-1,Local,True
+49,Fundacion de Ibarra,Local,False
+49,Fundacion de Loja,Local,False
+49,Fundacion de Machala,Local,True
+49,Fundacion de Manta,Local,True
+49,Fundacion de Quito,Local,False
+49,Fundacion de Quito-1,Local,False
+49,Fundacion de Riobamba,Local,True
+49,Fundacion de Santo Domingo,Local,True
+49,Independencia de Ambato,Local,True
+49,Independencia de Guaranda,Local,True
+49,Independencia de Latacunga,Local,True
+49,Provincializacion Santa Elena,Regional,True
+49,Provincializacion de Cotopaxi,Regional,True
+49,Provincializacion de Imbabura,Regional,True
+49,Provincializacion de Santo Domingo,Regional,True
+49,Traslado Fundacion de Guayaquil,Local,True
+49,Traslado Fundacion de Quito,Local,False
+50,Cantonizacion de Cayambe,Local,False
+50,Cantonizacion de El Carmen,Local,True
+50,Cantonizacion de Guaranda,Local,False
+50,Cantonizacion de Latacunga,Local,True
+50,Cantonizacion de Libertad,Local,False
+50,Cantonizacion de Quevedo,Local,True
+50,Cantonizacion de Riobamba,Local,True
+50,Cantonizacion de Salinas,Local,True
+50,Cantonizacion del Puyo,Local,True
+50,Fundacion de Ambato,Local,False
+50,Fundacion de Cuenca,Local,True
+50,Fundacion de Esmeraldas,Local,True
+50,Fundacion de Guayaquil,Local,False
+50,Fundacion de Guayaquil-1,Local,True
+50,Fundacion de Ibarra,Local,False
+50,Fundacion de Loja,Local,False
+50,Fundacion de Machala,Local,True
+50,Fundacion de Manta,Local,True
+50,Fundacion de Quito,Local,False
+50,Fundacion de Quito-1,Local,False
+50,Fundacion de Riobamba,Local,False
+50,Fundacion de Santo Domingo,Local,True
+50,Independencia de Ambato,Local,True
+50,Independencia de Guaranda,Local,False
+50,Independencia de Latacunga,Local,False
+50,Provincializacion Santa Elena,Regional,True
+50,Provincializacion de Cotopaxi,Regional,True
+50,Provincializacion de Imbabura,Regional,True
+50,Provincializacion de Santo Domingo,Regional,True
+50,Traslado Fundacion de Guayaquil,Local,True
+50,Traslado Fundacion de Quito,Local,False
+51,Cantonizacion de Cayambe,Local,False
+51,Cantonizacion de El Carmen,Local,True
+51,Cantonizacion de Guaranda,Local,False
+51,Cantonizacion de Latacunga,Local,True
+51,Cantonizacion de Libertad,Local,False
+51,Cantonizacion de Quevedo,Local,False
+51,Cantonizacion de Riobamba,Local,True
+51,Cantonizacion de Salinas,Local,True
+51,Cantonizacion del Puyo,Local,True
+51,Fundacion de Ambato,Local,False
+51,Fundacion de Cuenca,Local,False
+51,Fundacion de Esmeraldas,Local,True
+51,Fundacion de Guayaquil,Local,True
+51,Fundacion de Guayaquil-1,Local,True
+51,Fundacion de Ibarra,Local,False
+51,Fundacion de Loja,Local,False
+51,Fundacion de Machala,Local,True
+51,Fundacion de Manta,Local,True
+51,Fundacion de Quito,Local,False
+51,Fundacion de Quito-1,Local,False
+51,Fundacion de Riobamba,Local,False
+51,Fundacion de Santo Domingo,Local,True
+51,Independencia de Ambato,Local,True
+51,Independencia de Guaranda,Local,True
+51,Independencia de Latacunga,Local,True
+51,Provincializacion Santa Elena,Regional,True
+51,Provincializacion de Cotopaxi,Regional,True
+51,Provincializacion de Imbabura,Regional,True
+51,Provincializacion de Santo Domingo,Regional,True
+51,Traslado Fundacion de Guayaquil,Local,True
+51,Traslado Fundacion de Quito,Local,False
+52,Cantonizacion de Cayambe,Local,False
+52,Cantonizacion de El Carmen,Local,False
+52,Cantonizacion de Guaranda,Local,False
+52,Cantonizacion de Latacunga,Local,False
+52,Cantonizacion de Libertad,Local,False
+52,Cantonizacion de Quevedo,Local,False
+52,Cantonizacion de Riobamba,Local,False
+52,Cantonizacion de Salinas,Local,False
+52,Cantonizacion del Puyo,Local,False
+52,Fundacion de Ambato,Local,False
+52,Fundacion de Cuenca,Local,False
+52,Fundacion de Esmeraldas,Local,False
+52,Fundacion de Guayaquil,Local,False
+52,Fundacion de Guayaquil-1,Local,False
+52,Fundacion de Ibarra,Local,False
+52,Fundacion de Loja,Local,False
+52,Fundacion de Machala,Local,False
+52,Fundacion de Manta,Local,False
+52,Fundacion de Quito,Local,False
+52,Fundacion de Quito-1,Local,False
+52,Fundacion de Riobamba,Local,False
+52,Fundacion de Santo Domingo,Local,False
+52,Independencia de Ambato,Local,False
+52,Independencia de Guaranda,Local,False
+52,Independencia de Latacunga,Local,False
+52,Provincializacion Santa Elena,Regional,False
+52,Provincializacion de Cotopaxi,Regional,False
+52,Provincializacion de Imbabura,Regional,False
+52,Provincializacion de Santo Domingo,Regional,False
+52,Traslado Fundacion de Guayaquil,Local,False
+52,Traslado Fundacion de Quito,Local,False
+53,Cantonizacion de Cayambe,Local,False
+53,Cantonizacion de El Carmen,Local,True
+53,Cantonizacion de Guaranda,Local,False
+53,Cantonizacion de Latacunga,Local,True
+53,Cantonizacion de Libertad,Local,False
+53,Cantonizacion de Quevedo,Local,True
+53,Cantonizacion de Riobamba,Local,True
+53,Cantonizacion de Salinas,Local,True
+53,Cantonizacion del Puyo,Local,True
+53,Fundacion de Ambato,Local,False
+53,Fundacion de Cuenca,Local,False
+53,Fundacion de Esmeraldas,Local,True
+53,Fundacion de Guayaquil,Local,False
+53,Fundacion de Guayaquil-1,Local,True
+53,Fundacion de Ibarra,Local,False
+53,Fundacion de Loja,Local,False
+53,Fundacion de Machala,Local,True
+53,Fundacion de Manta,Local,True
+53,Fundacion de Quito,Local,False
+53,Fundacion de Quito-1,Local,False
+53,Fundacion de Riobamba,Local,False
+53,Fundacion de Santo Domingo,Local,True
+53,Independencia de Ambato,Local,True
+53,Independencia de Guaranda,Local,False
+53,Independencia de Latacunga,Local,False
+53,Provincializacion Santa Elena,Regional,False
+53,Provincializacion de Cotopaxi,Regional,True
+53,Provincializacion de Imbabura,Regional,True
+53,Provincializacion de Santo Domingo,Regional,True
+53,Traslado Fundacion de Guayaquil,Local,True
+53,Traslado Fundacion de Quito,Local,False
+54,Cantonizacion de Cayambe,Local,False
+54,Cantonizacion de El Carmen,Local,True
+54,Cantonizacion de Guaranda,Local,False
+54,Cantonizacion de Latacunga,Local,True
+54,Cantonizacion de Libertad,Local,True
+54,Cantonizacion de Quevedo,Local,False
+54,Cantonizacion de Riobamba,Local,True
+54,Cantonizacion de Salinas,Local,True
+54,Cantonizacion del Puyo,Local,True
+54,Fundacion de Ambato,Local,False
+54,Fundacion de Cuenca,Local,False
+54,Fundacion de Esmeraldas,Local,False
+54,Fundacion de Guayaquil,Local,False
+54,Fundacion de Guayaquil-1,Local,True
+54,Fundacion de Ibarra,Local,True
+54,Fundacion de Loja,Local,False
+54,Fundacion de Machala,Local,True
+54,Fundacion de Manta,Local,True
+54,Fundacion de Quito,Local,True
+54,Fundacion de Quito-1,Local,False
+54,Fundacion de Riobamba,Local,False
+54,Fundacion de Santo Domingo,Local,True
+54,Independencia de Ambato,Local,True
+54,Independencia de Guaranda,Local,True
+54,Independencia de Latacunga,Local,False
+54,Provincializacion Santa Elena,Regional,True
+54,Provincializacion de Cotopaxi,Regional,True
+54,Provincializacion de Imbabura,Regional,True
+54,Provincializacion de Santo Domingo,Regional,True
+54,Traslado Fundacion de Guayaquil,Local,True
+54,Traslado Fundacion de Quito,Local,False

@@ -1,0 +1,3 @@
+,Set,Model,RMSLE
+0,"With National, Local and Regional Holidays",RandomForest,0.5733485077665066
+1,"With National, Local and Regional Holidays",XGBoost,1.6810399656515904

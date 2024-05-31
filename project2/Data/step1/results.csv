@@ -1,0 +1,5 @@
+,Set,Model,RMSLE
+0,One Hot Encoding on Month and Day of Week,RandomForest,0.5660065447978077
+1,One Hot Encoding on Month and Day of Week,XGBoost,1.6809806138430456
+2,Cyclic Encoding on Month and Day of Week,RandomForest,0.5680531612852077
+3,Cyclic Encoding on Month and Day of Week,XGBoost,1.668786333972302
