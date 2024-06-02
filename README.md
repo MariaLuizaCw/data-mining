@@ -6,6 +6,7 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
 ## Projects
 
 ### Project 1: Obesity Level Classification
+#### Score: 0.89992
 
 - **Folder**: `project1`
 - **Objective**: Classify the level of obesity in individuals based on their eating habits and physical condition.
@@ -19,6 +20,7 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
   - `KaggleScores.png`: Print with the scores achieved in Kaggle submission.
 
 ### Project 2: Store Sales - Time Series Forecasting
+#### Score: 0.61996
 
 - **Folder**: `project2`
 - **Objective**: Forecasting store sales using time series data to predict future sales accurately.
@@ -32,26 +34,32 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
   - `transactions.csv`: Contains transaction data for each store.
 
 - **Notebooks**:
-  - The general strategy was to create a model for each store, adding information to these models over the steps.
   - `explore.ipynb`: First look and all data samples.
-  - `step1.ipynb`: Forecasting using only the train dataset.
-  - `step2.ipynb`: Adding holidays dataset to the model.
-  - `step3.ipynb`: Incorporating oil price information into the model.
-  - `step4.ipynb`: Including employee payment information to enhance the model.
+  - The general strategy of the first fours steps was to create a model for each store, adding information to these models over the steps.
+    - `step1.ipynb`: Forecasting using only the train dataset.
+    - `step2.ipynb`: Adding holidays dataset to the model.
+    - `step3.ipynb`: Incorporating oil price information into the model.
+    - `step4.ipynb`: Including employee payment information to enhance the model.
+  - In step 5, a new strategy is adopted where a model for each family is created
+    - `step5.ipynb`: Using stores information to make a better prediction.
 
 - **Data Subfolders**:
-  - Inside the `data` folder, there is a subfolder for each step (`step1`, `step2`, `step3`, `step4`) containing:
+  - Inside the `data` folder, there is a subfolder for each step (`step1`, `step2`, `step3`, `step4`, `step5`) containing:
     - Auxiliary CSVs created during the execution of the respective notebook.
     - Results obtained for the variations generated using two algorithms: Random Forest Regressor and Gradient Boosting Regressor `results.csv`.
 
 - **Submissions Folder**:
   - The `submissions` folder contains:
     - `submission_step_1.csv`: Submission for the best results from the step 1
+    ![Alt text](./project2/Data/submssions/step1_kaggle.png)
     - `submission_step_2.csv`: Submission for the best results from the step 2
+     ![Alt text](./project2/Data/submssions/step2_kaggle.png)
     - `submission_step_3.csv`: Submission for the best results from the step 3
+    ![Alt text](./project2/Data/submssions/step3_kaggle.png)
     - `submission_step_4.csv`: Submission for the best results from the step 4
-    - `KaggleSubmissions.png`: Print with the scores achieved in Kaggle submission.
-
+    ![Alt text](./project2/Data/submssions/step4_kaggle.png)
+    - `submission_step_5.csv`: Submission for the best results from the step 5
+    ![Alt text](./project2/Data/submssions/step5_kaggle.png)
 
 ## Installation
 

@@ -1,0 +1,7 @@
+,Set,Model,RMSLE
+0,"Train with all columns + stores cluster, city, state, type",RandomForest,0.8905126663753155
+1,"Train with all columns + stores cluster, city, state, type",XGBoost,0.6370352428663136
+2,"Train with all columns + stores cluster, state, type",RandomForest,0.890703457662513
+3,"Train with all columns + stores cluster, state, type",XGBoost,0.6370352428663157
+4,"Train with all columns + stores cluster, type",RandomForest,0.8954702918528231
+5,"Train with all columns + stores cluster, type",XGBoost,0.6814145982041268
