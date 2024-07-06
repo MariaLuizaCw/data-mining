@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import folium
 import numpy as np
-from geopy.distance import geodesic
+
 from shapely.wkt import loads
 from shapely.geometry import Point, Polygon
 from sqlalchemy import create_engine
@@ -17,7 +17,7 @@ import geopandas as gpd
 from scipy.interpolate import splprep, splev
 import mplleaflet
 import seaborn as sns
-
+from geopy.distance import geodesic
 from pyproj import Geod
 
 geod = Geod(ellps="WGS84")
@@ -296,7 +296,12 @@ ends_df['end_point'] = gpd.GeoSeries.from_wkb(ends_df['end_point'], crs='EPSG:43
 
  
 # Dividir as linhas de ônibus entre threads
-bus_lines = ['3']
+bus_lines = ['483', '864', '639', '3', '309', '774', '629', 
+				  '371', '397', '100', '838', '315', '624', '388', 
+				  '918', '665', '328', '497', '878', '355', '138', '606', '457', '550', 
+				  '803', '917', '638', '2336', '399', '298', '867', '553', '565', '422', 
+				  '756', '186012003', '292', '554', '634', '232', '415', '2803', '324', 
+				  '852', '557', '759', '343', '779', '905', '108']
 
 num_threads = 6
 chunks = [bus_lines[i::num_threads] for i in range(num_threads)]
