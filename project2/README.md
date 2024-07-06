@@ -31,12 +31,12 @@
 - **Submissions Folder**:
   - The `submissions` folder contains:
     - `submission_step_1.csv`: Submission for the best results from the step 1
-    ![Alt text](./project2/Data/submssions/step1_kaggle.png)
+    ![Alt text](./Data/submssions/step1_kaggle.png)
     - `submission_step_2.csv`: Submission for the best results from the step 2
-     ![Alt text](./project2/Data/submssions/step2_kaggle.png)
+     ![Alt text](./Data/submssions/step2_kaggle.png)
     - `submission_step_3.csv`: Submission for the best results from the step 3
-    ![Alt text](./project2/Data/submssions/step3_kaggle.png)
+    ![Alt text](./Data/submssions/step3_kaggle.png)
     - `submission_step_4.csv`: Submission for the best results from the step 4
-    ![Alt text](./project2/Data/submssions/step4_kaggle.png)
+    ![Alt text](./Data/submssions/step4_kaggle.png)
     - `submission_step_5.csv`: Submission for the best results from the step 5
-    ![Alt text](./project2/Data/submssions/step5_kaggle.png)
+    ![Alt text](./Data/submssions/step5_kaggle.png)
