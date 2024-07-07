@@ -30,7 +30,11 @@ Data from 50 bus routes in Rio de Janeiro were used, employing PostGIS and Pytho
   - `calculate_traj_paralel.py`: Calculates bus trajectories for all 50 lines in parallel using multithreading for Monday, Saturday, and Sunday.
   - `calculate_end_points.py`: Calculates initial and final points for 50 bus routes using heuristics explored in `analyse_trajectory.ipynb` and adds them to the `bus_end_points` table.
   - `paralel_script_execution.py`: Parallelizes script execution using multithreading across bus routes.
+  
+- **Folder `api`**: Contains a notebook for API interaction.
+  - `request_evaluation.ipynb`: This notebook makes requests to the API designated by the professor using the username "Maria Luiza" and the password "120040005". It evaluates the test results.
 
 #### Notes
 
 - Monday was chosen as the representative weekday for modeling bus routes during weekdays.
+- The outcome was not as good as expected, but many lessons were learned during the work, such as: handling large volumes of data, manipulating geographic data, using spatial databases, manipulating APIs and others.
