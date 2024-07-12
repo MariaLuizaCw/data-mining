@@ -8,7 +8,7 @@ Welcome to the repository for the Data Mining course at the Program Systems Engi
 - Project 1: Obesity Level Classification (**Folder**: `project1`)
 - Project 2: Store Sales - Time Series Forecasting (**Folder**: `project2`)
 - Project 3: Bus Location Predictiong (**Folder**: `project3`)
-- Project 4: Clustering MovieLens Data g (**Folder**: `project4`)
+- Project 4: Clustering MovieLens Data (**Folder**: `project4`)
 
 ## Installation
 
